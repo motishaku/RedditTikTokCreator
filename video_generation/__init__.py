@@ -1,0 +1,1 @@
+from video_generation.video_generator import VideoCreator

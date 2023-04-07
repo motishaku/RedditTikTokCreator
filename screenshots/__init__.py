@@ -1,0 +1,1 @@
+from screenshots.screenshots_manager import ScreenshotManager, SCREENSHOT_OUTPUT_FOLDER
